@@ -14,19 +14,6 @@
             "related": ".xml"
           }
         }
-      },
-      "ASP.NET Core - Reference/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "compile": {
-          "bin/placeholder/ASP.NET Core - Reference.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/ASP.NET Core - Reference.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
       }
     }
   },
@@ -60,16 +47,10 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
-    },
-    "ASP.NET Core - Reference/1.0.0": {
-      "type": "project",
-      "path": "../ASP.NET Core - Reference/ASP.NET Core - Reference.csproj",
-      "msbuildProject": "../ASP.NET Core - Reference/ASP.NET Core - Reference.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "ASP.NET Core - Reference >= 1.0.0",
       "Newtonsoft.Json >= 13.0.3"
     ]
   },
@@ -99,11 +80,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\duchi\\Desktop\\Z Project - ASP.NET\\ASP.NET Core - Reference\\ASP.NET Core - Reference.csproj": {
-              "projectPath": "C:\\Users\\duchi\\Desktop\\Z Project - ASP.NET\\ASP.NET Core - Reference\\ASP.NET Core - Reference.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

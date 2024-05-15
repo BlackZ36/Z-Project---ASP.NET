@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "z6k8VMmph0YtqWKhuIdbfvfUn8X5xgdyHvGyxfHqkZn4LTL2HoZ5do92xxW7oNR3inI9BusSRh7qZf/8/S5ejg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\duchi\\Desktop\\Z Project - ASP.NET\\BOS.WebApplication\\BOS.WebApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\duchi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\duchi\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\duchi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\duchi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
