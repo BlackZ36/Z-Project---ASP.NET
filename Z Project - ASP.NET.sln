@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34316.72
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Console", "5.Console", "{059638FF-95B2-4556-9266-5A9B59FDBE6A}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.Console", "6.Console", "{059638FF-95B2-4556-9266-5A9B59FDBE6A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Shared", "1.Shared", "{7A286A9E-1D7E-4E4B-BF0D-521F4B673FD5}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Shared", "1. Shared", "{7A286A9E-1D7E-4E4B-BF0D-521F4B673FD5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Domain", "2.Domain", "{C5991193-023F-4E04-B3EE-BCA3485EBFE0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Domain", "2. Domain", "{C5991193-023F-4E04-B3EE-BCA3485EBFE0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Infrastructure", "3.Infrastructure", "{9E4ACCAA-BCA5-4DCC-8480-F938971FEEEE}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Infrastructure", "3. Infrastructure", "{9E4ACCAA-BCA5-4DCC-8480-F938971FEEEE}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Host", "4.Host", "{E2EC6166-0ADE-4B86-8413-8EEEADA01825}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4. Host", "4. Host", "{E2EC6166-0ADE-4B86-8413-8EEEADA01825}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console-TestConsoleApp", "Console-TestConsoleApp\Console-TestConsoleApp.csproj", "{D65035AE-E0B0-4F6A-B118-55557873AE59}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console-TestConsoleApp", "Console-TestConsoleApp\Console-TestConsoleApp.csproj", "{D65035AE-E0B0-4F6A-B118-55557873AE59}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "API", "API", "{397D7894-46BC-420D-A611-79931FD4A98C}"
 EndProject
@@ -23,9 +23,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Library", "Library", "{00B3
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{5CEE0083-31B1-4139-87B2-388B13544119}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOS.AdminApplication", "BOS.AdminApplication\BOS.AdminApplication.csproj", "{2A1CB081-85D5-4F05-B62D-4B8AB99F7DCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BOS.AdminApplication", "BOS.AdminApplication\BOS.AdminApplication.csproj", "{2A1CB081-85D5-4F05-B62D-4B8AB99F7DCE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BOS.WebApplication", "BOS.WebApplication\BOS.WebApplication.csproj", "{D300AD8C-02BF-460E-9AB1-320BEF8BD278}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BOS.WebApplication", "BOS.WebApplication\BOS.WebApplication.csproj", "{D300AD8C-02BF-460E-9AB1-320BEF8BD278}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Services", "5.Services", "{8891F68F-A8A9-4C50-A927-69C6CEE9C8FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
