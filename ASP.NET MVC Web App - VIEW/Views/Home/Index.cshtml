@@ -1,0 +1,16 @@
+﻿@model IEnumerable<ASP.NET_Core___Reference.WeatherForecast>;
+@{
+
+    ViewData["Title"] = "Home Page";
+}
+
+@if(Model != null)
+{
+    <p>
+        @Model.FirstOrDefault().Summary
+    </p>
+}
+else
+{
+    <p>không có dữ liệu</p>
+}

@@ -1,0 +1,25 @@
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\bin\Debug\net6.0\appsettings.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\bin\Debug\net6.0\ASP.NET Core - Reference.exe
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\bin\Debug\net6.0\ASP.NET Core - Reference.deps.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\bin\Debug\net6.0\ASP.NET Core - Reference.runtimeconfig.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\bin\Debug\net6.0\ASP.NET Core - Reference.dll
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\bin\Debug\net6.0\ASP.NET Core - Reference.pdb
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\ASP.NET Core - Reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\ASP.NET Core - Reference.AssemblyInfoInputs.cache
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\ASP.NET Core - Reference.AssemblyInfo.cs
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\ASP.NET Core - Reference.csproj.CoreCompileInputs.cache
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\ASP.NET Core - Reference.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\staticwebassets\msbuild.ASP.NET Core - Reference.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP.NET Core - Reference.props
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET Core - Reference.props
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP.NET Core - Reference.props
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\scopedcss\bundle\ASP.NET Core - Reference.styles.css
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\ASP.NET Core - Reference.dll
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\refint\ASP.NET Core - Reference.dll
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\ASP.NET Core - Reference.pdb
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\ASP.NET Core - Reference.genruntimeconfig.cache
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET Core - Reference\obj\Debug\net6.0\ref\ASP.NET Core - Reference.dll

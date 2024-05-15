@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ASP.NET MVC Web App - VIEW.props" />
+</Project>

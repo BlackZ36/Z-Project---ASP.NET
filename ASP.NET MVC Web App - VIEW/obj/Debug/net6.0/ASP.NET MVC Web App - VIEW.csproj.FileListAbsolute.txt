@@ -1,0 +1,38 @@
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\bin\Debug\net6.0\appsettings.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\bin\Debug\net6.0\ASP.NET MVC Web App - VIEW.staticwebassets.runtime.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\bin\Debug\net6.0\ASP.NET MVC Web App - VIEW.exe
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\bin\Debug\net6.0\ASP.NET MVC Web App - VIEW.deps.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\bin\Debug\net6.0\ASP.NET MVC Web App - VIEW.runtimeconfig.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\bin\Debug\net6.0\ASP.NET MVC Web App - VIEW.dll
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\bin\Debug\net6.0\ASP.NET MVC Web App - VIEW.pdb
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\ASP.NET MVC Web App - VIEW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\ASP.NET MVC Web App - VIEW.AssemblyInfoInputs.cache
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\ASP.NET MVC Web App - VIEW.AssemblyInfo.cs
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\ASP.NET MVC Web App - VIEW.csproj.CoreCompileInputs.cache
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\ASP.NET MVC Web App - VIEW.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\ASP.NET MVC Web App - VIEW.RazorAssemblyInfo.cache
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\ASP.NET MVC Web App - VIEW.RazorAssemblyInfo.cs
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\staticwebassets\msbuild.ASP.NET MVC Web App - VIEW.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\staticwebassets\msbuild.build.ASP.NET MVC Web App - VIEW.props
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ASP.NET MVC Web App - VIEW.props
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ASP.NET MVC Web App - VIEW.props
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\scopedcss\bundle\ASP.NET MVC Web App - VIEW.styles.css
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\scopedcss\projectbundle\ASP.NET MVC Web App - VIEW.bundle.scp.css
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\ASP.NET MVC Web App - VIEW.dll
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\refint\ASP.NET MVC Web App - VIEW.dll
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\ASP.NET MVC Web App - VIEW.pdb
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\ASP.NET MVC Web App - VIEW.genruntimeconfig.cache
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\ref\ASP.NET MVC Web App - VIEW.dll
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\ASP.NET MVC Web App - VIEW.csproj.AssemblyReference.cache
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\bin\Debug\net6.0\ASP.NET Core - Reference.deps.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\bin\Debug\net6.0\ASP.NET Core - Reference.runtimeconfig.json
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\bin\Debug\net6.0\ASP.NET Core - Reference.exe
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\bin\Debug\net6.0\ASP.NET Core - Reference.dll
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\bin\Debug\net6.0\ASP.NET Core - Reference.pdb
+C:\Users\duchi\Desktop\Z Project - ASP.NET\ASP.NET MVC Web App - VIEW\obj\Debug\net6.0\ASP.NET MVC Web App - VIEW.csproj.CopyComplete
